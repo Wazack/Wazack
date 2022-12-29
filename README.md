@@ -1,4 +1,4 @@
-### Hey I'm Thomas Simon 👋
+# Hey I'm Thomas Simon 👋
 
 Frontend developer from 🇫🇷**Lyon, France** 
 
